@@ -2,20 +2,13 @@
 
 Esta es una API pensada para un delivery de comidas de un restaurante. La misma permite registrar nuevos clientes y que los mismos puedan hacer pedidos. También cuenta con un usuario Administrador el cual puede editar el estado de los pedidos, las comidas y los usuarios mismos.
 
-## Comenzar!
-
-Estas son las instrucciones para poder clonar el repositorio y luego configurarlo para poder usarlo en su máquina local.
-
 ### Prerequisitos
 
-Tener instalado Node.js. Link: https://nodejs.org/en/
-Tener instalado Postman, para poder hacer las peticiones HTTP. Link: https://www.postman.com/
-Tener instalado un IDE, se recomienda VCode: https://code.visualstudio.com/download
 Disponer de un gestor de Base de Datos MySQL como XAMPP, WAMMP, o cualquier otro, para poder crear una BD con MySQL.
 
 ### Descarga del repositorio
 
-Clone y copiar la URL del repositorio de Github. Link:
+Clonar y copiar la URL del repositorio de Github. Link:
 
 Abrir la carpeta en la cual se desea descargar el repositorio con el IDE elegido, y luego en la terminal del IDE ejecutar el comando "git clone repo url", siendo url la url copiada desde el repositorio en Github.
 Una vez finalizado, ejecutar el comando "npm install" para que se instalen todas las dependencias necesarias para que el proyecto funcione correctamente.
